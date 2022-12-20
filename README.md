@@ -1,5 +1,5 @@
-# Exercicio 002 Flebox
+# Exercicio 002 Flexbox
 
-Exercicio do curso DevQuest
+Exercicio de flexbox do curso DevQuest
 
 <a href="https://ericrdgs.github.io/Exercicio-002-Flebox/"> Acessar o exercicio 002 </a>
